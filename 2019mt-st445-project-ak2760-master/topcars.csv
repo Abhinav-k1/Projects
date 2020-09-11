@@ -1,0 +1,167 @@
+Generic Model,Engine_HP,Driven_Wheels,Number of Doors,Luxury,Vehicle_Size,Vehicle_Style,highway MPG,city mpg,MSRP
+ALFA-ROMEO 147,120,rear wheel drive,4,1,Compact,Hatchback,38,30,18000
+ALFA-ROMEO 156,192,rear wheel drive,4,1,Compact,Sedan,28,20,24000
+AUDI A1,146,front wheel drive,4,1,Compact,Hatchback,42,34,25600
+AUDI A2,75,front wheel drive,4,1,Compact,Hatchback,42,34,14000
+AUDI A3,186,front wheel drive,2,1,Compact,Convertible,34,25,46550
+AUDI A4,190,front wheel drive,4,1,Midsize,Sedan,37,27,38700
+AUDI A5,220,all wheel drive,2,1,Midsize,Coupe,31,22,41500
+AUDI A6,252,front wheel drive,4,1,Midsize,Sedan,34,24,47600
+AUDI Q2,116,front wheel drive,4,1,Compact,SUV,47,42,21000
+AUDI Q3,200,all wheel drive,4,1,Compact,SUV,28,20,33900
+AUDI Q5,272,all wheel drive,4,1,Midsize,SUV,26,18,46400
+AUDI TT,220,all wheel drive,2,1,Compact,Convertible,30,23,47000
+BMW 1 SERIES,320,rear wheel drive,2,1,Compact,Coupe,28,20,43550
+BMW 2 SERIES,248,all wheel drive,2,1,Compact,Coupe,33,24,35150
+BMW 3 SERIES,248,all wheel drive,4,1,Midsize,Wagon,33,23,42950
+BMW 4 SERIES,248,rear wheel drive,2,1,Midsize,Coupe,34,23,42150
+BMW 5 SERIES,240,all wheel drive,4,1,Large,Sedan,34,22,52500
+BMW X1,228,front wheel drive,4,1,Compact,SUV,32,23,33100
+BMW X2,302,front wheel drive,5,1,Compact,SUV,32,23,45000
+BMW X3,255,all wheel drive,4,1,Midsize,SUV,30,23,59300
+BMW X5,300,all wheel drive,4,1,Midsize,SUV,24,18,63700
+CHRYSLER PT CRUISER,150,front wheel drive,4,0,Compact,Wagon,24,19,18275
+CHRYSLER VOYAGER,150,front wheel drive,4,0,Midsize,Passenger Minivan,25,18,20960
+CITROEN BERLINGO,75,front wheel drive,4,0,Midsize,SUV,50,40,19500
+CITROEN C3,61,front wheel drive,4,0,Compact,Hatchback,65,45,15000
+CITROEN C4,81,front wheel drive,4,0,Compact,Hatchback,60,40,21000
+CITROEN C5,119,front wheel drive,4,0,Midsize,Hatchback,65,50,24000
+CITROEN SAXO,75,front wheel drive,4,0,Compact,Hatchback,35,30,9000
+CITROEN XSARA,75,front wheel drive,4,0,Compact,Hatchback,55,45,10000
+DACIA DUSTER,74,front wheel drive,4,0,Compact,SUV,55,45,10000
+DACIA SANDERO,54,front wheel drive,4,0,Compact,Hatchback,55,45,6000
+DAEWOO MATIZ,51,front wheel drive,4,0,Compact,Hatchback,45,30,6000
+FIAT 500,101,front wheel drive,2,0,Compact,Hatchback,33,27,15990
+FIAT BRAVA,90,front wheel drive,4,0,Compact,Hatchback,48,38,14000
+FIAT BRAVO,90,front wheel drive,4,0,Compact,Hatchback,48,38,14000
+FIAT PUNTO,69,front wheel drive,2,0,Compact,Hatchback,54,45,9500
+FIAT SEICENTO,55,front wheel drive,2,0,Compact,Hatchback,48,38,9500
+FORD ECOSPORT,74,front wheel drive,4,1,Compact,SUV,60,45,1800
+FORD FIESTA,120,front wheel drive,4,0,Compact,Sedan,35,27,15360
+FORD FOCUS,160,front wheel drive,4,0,Compact,Hatchback,40,27,19765
+FORD GALAXY,88,front wheel drive,4,0,Large,Wagon,55,38,29000
+FORD KA,69,front wheel drive,2,0,Compact,Hatchback,62,52,12000
+FORD KUGA,88,front wheel drive,4,1,Compact,SUV,50,40,23000
+FORD MONDEO,110,front wheel drive,4,0,Midsize,Sedan,64,53,24000
+FORD PUMA,92,front wheel drive,4,0,Compact,Hatchback,55,45,20000
+HONDA ACCORD,185,front wheel drive,4,0,Midsize,Sedan,36,27,23155
+HONDA CIVIC,158,front wheel drive,2,0,Compact,Coupe,39,30,19950
+HONDA CRV,185,front wheel drive,4,0,Compact,SUV,33,26,23745
+HONDA JAZZ,75,front wheel drive,4,0,Compact,Hatchback,55,45,13000
+HYUNDAI ACCENT,130,front wheel drive,4,0,Compact,Sedan,45,35,14000
+HYUNDAI AMICA,54,front wheel drive,4,0,Compact,Hatchback,50,40,10000
+HYUNDAI COUPE,114,front wheel drive,2,0,Compact,Coupe,40,30,15000
+HYUNDAI I10,49,front wheel drive,4,0,Compact,Hatchback,56,46,10000
+HYUNDAI I20,55,front wheel drive,4,0,Compact,Hatchback,55,40,13000
+HYUNDAI IONIQ,100,front wheel drive,4,0,Midsize,Hatchback,67,57,22000
+HYUNDAI KONA,88,front wheel drive,4,0,Compact,SUV,52,40,16000
+HYUNDAI TUCSON,175,front wheel drive,4,0,Compact,SUV,32,26,24150
+JAGUAR E-PACE,110,rear wheel drive,4,1,Midsize,SUV,47,37,28000
+JAGUAR F-PACE,120,rear wheel drive,4,1,Midsize,SUV,49,39,35000
+JAGUAR S TYPE,235,rear wheel drive,4,1,Midsize,Sedan,30,20,35000
+JAGUAR X TYPE,157,front wheel drive,4,1,Midsize,Sedan,34,24,25000
+JEEP CHEROKEE,184,rear wheel drive,4,1,Large,SUV,36,16,50000
+KIA CEED,84,front wheel drive,4,0,Compact,Hatchback,65,42,18000
+KIA NIRO,102,front wheel drive,4,0,Midsize,SUV,65,54,24000
+KIA PICANTO,49,front wheel drive,4,0,Compact,Hatchback,51,42,9000
+KIA SPORTAGE,181,all wheel drive,4,0,Compact,SUV,25,21,24490
+KIA STONIC,72,front wheel drive,4,0,Compact,SUV,70,46,16000
+LAND-ROVER DISCOVERY,240,all wheel drive,4,0,Midsize,SUV,25,20,37695
+LAND-ROVER FREELANDER,174,all wheel drive,2,0,Compact,2dr SUV,19,16,26830
+LAND-ROVER RANGE ROVER,240,all wheel drive,4,0,Large,SUV,29,21,45800
+LEXUS IS200,164,rear wheel drive,4,1,Midsize,Sedan,20,12,32000
+MAZDA 2,100,front wheel drive,4,0,Compact,Hatchback,34,28,15560
+MAZDA 323,90,front wheel drive,4,0,Compact,Hatchback,34,28,10000
+MAZDA CX3,184,front wheel drive,4,0,Midsize,SUV,33,26,25215
+MAZDA MX-5,155,rear wheel drive,2,0,Compact,Convertible,36,27,26395
+MCC SMART,60,rear wheel drive,2,1,Compact,Hatchback,55,39,14000
+MERCEDES A 180,85,front wheel,4,1,Compact,Hatchback,50,40,22000
+MERCEDES A 200,163,front wheel,4,1,Compact,Hatchback,50,40,22000
+MERCEDES A CLASS,85,front wheel,4,1,Compact,Hatchback,50,40,22000
+MERCEDES C CLASS,241,rear wheel drive,4,1,Midsize,Sedan,34,24,39500
+MERCEDES CLA CLASS,208,front wheel drive,4,1,Midsize,Sedan,38,26,32400
+MERCEDES CLK,268,rear wheel drive,2,1,Midsize,Coupe,25,17,48100
+MERCEDES E CLASS,241,rear wheel drive,4,1,Midsize,Sedan,30,22,52150
+MERCEDES GLA CLASS,208,front wheel drive,4,1,Compact,SUV,33,24,32850
+MERCEDES GLC CLASS,241,rear wheel drive,4,1,Midsize,SUV,28,22,39150
+MERCEDES ML CLASS,302,all wheel drive,4,1,Midsize,SUV,22,17,50800
+MERCEDES S CLASS,449,rear wheel drive,4,1,Large,Sedan,26,18,96600
+MERCEDES SLK,241,rear wheel drive,2,1,Compact,Convertible,32,25,47000
+MG MGF,118,front wheel drive,2,1,Compact,Coupe,34,24,20000
+MINI COOPER,136,front wheel drive,4,0,Compact,Hatchback,55,45,16000
+MINI COUNTRYMAN,136,front wheel drive,4,0,Compact,Hatchback,50,40,23000
+MINI COUNTRYMAN COOPER,136,front wheel drive,4,0,Compact,Hatchback,50,40,23000
+MITSUBISHI OUTLANDER,166,all wheel drive,4,0,Midsize,SUV,29,24,26495
+MITSUBISHI SHOGUN,158,front wheel drive,4,0,Large,SUV,35,25,26000
+NISSAN ALMERA,97,front wheel drive,4,0,Compact,Sedan,45,35,25000
+NISSAN JUKE,188,front wheel drive,4,0,Compact,Hatchback,32,28,20250
+NISSAN MICRA,74,front wheel drive,4,0,Compact,Hatchback,63,45,13000
+NISSAN PRIMERA,204,front wheel drive,4,0,Midsize,Sedan,40,30,20000
+NISSAN QASHQAI,85,front wheel drive,4,0,Compact,SUV,70,49,20000
+PEUGEOT 106,60,front wheel drive,4,0,Compact,Hatchback,49,39,7000
+PEUGEOT 108,72,front wheel drive,4,0,Compact,Hatchback,74,58,11000
+PEUGEOT 2008,61,front wheel drive,4,0,Compact,SUV,70,51,17000
+PEUGEOT 206,75,front wheel drive,4,0,Compact,Hatchback,50,40,10000
+PEUGEOT 208,61,front wheel drive,4,0,Compact,SUV,70,51,17000
+PEUGEOT 3008,96,front wheel drive,4,0,Compact,SUV,60,44,24000
+PEUGEOT 306,74,front wheel drive,4,0,Compact,Wagon,45,35,10000
+PEUGEOT 307,140,front wheel drive,4,0,Compact,Hatchback,50,40,16000
+PEUGEOT 308,74,front wheel drive,4,0,Compact,SUV,60,44,20000
+PEUGEOT 406,135,front wheel drive,4,0,Compact,Sedan,44,34,18000
+RENAULT CAPTUR,70,front wheel drive,4,0,Compact,SUV,55,44,16000
+RENAULT CLIO,53,front wheel drive,4,0,Compact,Hatchback,65,48,13000
+RENAULT KADJAR,85,front wheel drive,4,0,Midsize,SUV,65,48,20000
+RENAULT LAGUNA,107,front wheel drive,4,0,Compact,Sedan,52,42,16000
+RENAULT MEGANE,110,front wheel drive,4,0,Compact,Hatchback,59,47,17000
+ROVER 25,107,front wheel drive,4,1,Compact,Hatchback,49,39,12000
+ROVER 45,102,front wheel drive,4,1,Compact,Sedan,44,34,16000
+ROVER 75,131,rear wheel drive,4,1,Midsize,Sedan,40,30,20000
+SAAB 9-3,154,all wheel drive,4,1,Midsize,Sedan,29,18,26000
+SAAB 9-5,185,all wheel drive,4,1,Midsize,Sedan,29,18,32395
+SEAT ARONA,70,front wheel drive,4,0,Compact,SUV,59,49,17000
+SEAT ATECA,85,front wheel drive,4,0,Midsize,SUV,56,33,22000
+SEAT IBIZA,59,front wheel drive,4,0,Compact,Hatchback,66,46,15000
+SEAT LEON,85,front wheel drive,4,0,Compact,Hatchback,58,34,18000
+SKODA FABIA,44,front wheel drive,4,0,Compact,Wagon,70,49,11000
+SKODA KAROQ,85,front wheel drive,4,0,Compact,SUV,52,33,21000
+SKODA KODIAQ,110,front wheel drive,4,0,Midsize,SUV,45,32,25000
+SKODA OCTAVIA,85,front wheel drive,4,0,Midsize,SUV,70,35,18000
+SKODA SUPERB,88,front wheel drive,4,0,Large,SUV,50,35,23000
+SUBARU IMPREZA,152,all wheel drive,4,0,Compact,Hatchback,37,28,19895
+SUZUKI SWIFT,79,front wheel drive,2,0,Compact,Hatchback,38,31,9299
+SUZUKI VITARA,165,rear wheel drive,4,0,Compact,SUV,21,17,16999
+SUZUKI WAGON R+,93,front wheel drive,,0,Compact,Wagon,47,37,12000
+TOYOTA AURIS,95,front wheel drive,4,0,Compact,Hatchback,65,55,15000
+TOYOTA AVENSIS,150,front wheel drive,4,0,Midsize,Hatchback,65,50,20000
+TOYOTA AYGO,51,front wheel drive,4,0,Compact,Hatchback,75,55,9000
+TOYOTA CELICA,140,front wheel drive,2,0,Compact,Hatchback,33,25,18470
+TOYOTA C-HR,90,front wheel drive,4,0,Midsize,SUV,31,27,24000
+TOYOTA COROLLA,132,front wheel drive,4,0,Compact,Sedan,36,28,18935
+TOYOTA RAV4,176,front wheel drive,4,0,Midsize,SUV,30,23,26830
+TOYOTA YARIS,106,front wheel drive,4,0,Compact,Hatchback,36,30,17200
+VAUXHALL AGILA,65,front wheel drive,4,0,Compact,Hatchback,55,45,7500
+VAUXHALL ASTRA,77,front wheel drive,4,0,Compact,Hatchback,67,45,18000
+VAUXHALL CORSA,55,front wheel drive,4,0,Compact,Hatchback,51,44,10000
+VAUXHALL CROSSLAND,120,front wheel drive,4,0,Compact,SUV,59,49,17000
+VAUXHALL GRANDLAND,111,front wheel drive,4,0,Midsize,SUV,56,46,22000
+VAUXHALL INSIGNIA,108,front wheel drive,4,0,Midsize,Wagon,55,35,17000
+VAUXHALL MOKKA,115,front wheel drive,4,0,Compact,SUV,72,60,17000
+VAUXHALL OMEGA,166,front wheel drive,4,0,Large,Sedan,40,23,26000
+VAUXHALL VECTRA,67,front wheel drive,4,0,Midsize,Sedan,35,25,12000
+VAUXHALL ZAFIRA,103,front wheel drive,4,0,Compact,Wagon,50,29,18000
+VOLKSWAGEN BEETLE,170,front wheel drive,2,0,Compact,Hatchback,33,24,22450
+VOLKSWAGEN BORA,110,front wheel drive,4,0,Compact,Sedan,45,35,17000
+VOLKSWAGEN GOLF,170,front wheel drive,4,0,Compact,Hatchback,36,25,19895
+VOLKSWAGEN LUPO,50,front wheel drive,2,0,Compact,Hatchback,52,42,10000
+VOLKSWAGEN PASSAT,170,front wheel drive,4,0,Midsize,Sedan,34,23,25495
+VOLKSWAGEN POLO,59,front wheel drive,4,0,Compact,Hatchback,70,40,14000
+VOLKSWAGEN TIGUAN,200,front wheel drive,4,0,Compact,SUV,24,20,32605
+VOLKSWAGEN T-ROC,85,front wheel drive,4,0,Compact,SUV,52,32,19000
+VOLKSWAGEN UP,44,front wheel drive,4,0,Compact,Hatchback,65,53,11000
+VOLVO S40,227,front wheel drive,4,1,Compact,Sedan,30,21,27750
+VOLVO S60,240,front wheel drive,4,1,Midsize,Sedan,36,25,36800
+VOLVO V40,170,front wheel drive,4,1,Compact,Wagon,27,19,25700
+VOLVO V70,235,front wheel drive,4,1,Midsize,Wagon,27,18,33550
+VOLVO XC40,95,front wheel drive,4,1,Midsize,SUV,55,40,24000
+VOLVO XC60,240,front wheel drive,4,1,Midsize,SUV,30,23,40950
+VOLVO XC90,250,front wheel drive,4,1,Large,SUV,26,22,45750
