@@ -1,16 +1,5 @@
 # ST449 Course Project
 
- 
-
-This is the repository for the course project – please keep anything project related in this repository.
-
- 
-
-**Project Deadline: 30th April 2020, 5 pm London time.**
-
- 
-## Candidate Number: 35661
- 
 
 ## Project title: 
 
