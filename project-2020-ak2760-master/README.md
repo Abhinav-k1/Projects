@@ -18,5 +18,3 @@ https://openpsychometrics.org/_rawdata/ IPIP-FFM-data-8Nov2018.zip
 https://en.wikipedia.org/wiki/K-means%2B%2B
 
 https://en.wikipedia.org/wiki/Big_Five_personality_traits
-
-
